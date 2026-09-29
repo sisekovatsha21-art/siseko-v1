@@ -1,0 +1,10 @@
+{
+  "name": "SISEKO V1 — Market Intelligence System",
+  "short_name": "SISEKO V1",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "description": "Mobile-first market scanner for demo trading and analysis.",
+  "icons": []
+}
